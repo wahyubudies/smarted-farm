@@ -5,7 +5,6 @@ module.exports = {
     './success.html',
     './details.html',
     './cart.html',
-    './404.html',
     ],
     theme: {
     extend: {
